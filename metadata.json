@@ -1,0 +1,6 @@
+{
+  "name": "Example Token 1",
+  "symbol": "ET1",
+  "description": "Example token 1 from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/joelc0193/OneMindCoinLogo/refs/heads/main/TestSolanaToken.png"
+}
